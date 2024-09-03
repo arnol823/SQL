@@ -23,3 +23,6 @@ select person_id, personal_name, family_name from Person;
 
 SELECT * FROM Name_of_table
 # this selects all column names and will show everything
+
+
+
