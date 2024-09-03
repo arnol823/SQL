@@ -9,4 +9,14 @@ sqlite3
 #to exit = command+d
 
 
+.schema 
+#helps explain datatypes for column names 
 
+SELECT person_id, personal_name, family_name FROM Person
+# SELECT column values FROM file?
+
+• mode column
+. header on
+# makes it easier to see the table format when you do the following command
+select person_id, personal_name, family_name from Person
+#note that sql is not case sensitive (caps or underlines are fine)
