@@ -1,7 +1,11 @@
 #09/03/2024
 #SQL Workshop
+#David Naughton (naughton@umn.edu) and Myat Mo (mo000007@umn.edu)
+
 
 #on mac: to load SQL
 sqlite3
 #to exit = command+d
+
+
 
